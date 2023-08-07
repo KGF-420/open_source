@@ -1,5 +1,3 @@
-#🙃F*cked Lking By Me
-# Script Meri thi bs iske hath pata nai kese lag gayi
 
 
 W = '\x1b[1;37m'
